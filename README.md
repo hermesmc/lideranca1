@@ -40,7 +40,7 @@ Anotações do curso de liderança 1 do Alura
 
 Análise pessoal SWOT:
 
-S - Strengths = forças
-W - Weaknesses = fraquezas
-O - Opportunities = oportunidades
-T - Threats = Ameaças
+- S - Strengths = forças
+- W - Weaknesses = fraquezas
+- O - Opportunities = oportunidades
+- T - Threats = Ameaças
