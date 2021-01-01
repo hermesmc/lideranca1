@@ -44,3 +44,5 @@ Análise pessoal SWOT:
 - W - Weaknesses = fraquezas
 - O - Opportunities = oportunidades
 - T - Threats = Ameaças
+
+### "O elogio do gestor é o combustivel para que as pessoas deem seu melhor."
