@@ -58,3 +58,31 @@ O conjunto de ideias, crenças e valores que uma pessoa possui é responsável p
 
 
 Carol Dweck apontou em seu livro que as pessoas podem ser divididas em dois grandes grupos: mindset fixo e mindset de crescimento. No grupo fixo as pessoas tendem a acreditar que não podem desenvolver novos conhecimentos ou que as coisas sempre foram assim, para as pessoas de mindset de crescimento, o aprender é algo leve e natural.
+
+## A transição do pipeline<br>
+1 - Líder de si mesmo => líder de pessoas(autoconecimento é chave para assumir essas novas funções)
+
+Segundo Ram Charan a cada nível há uma nova complexidade e a cada mudança de complexidade ha 3 mudnaças essenciais:<br>
+1 - Novas habilidades<br>
+2 - Aplicação do tempo(organizar seu tempo de forma eficaz)<br>
+3 - Rever os valores profissionais<br>
+
+Pessoas em alto desempenho resistem a transição pois querem continua r desempenhar atividades que lhe rendem sucesso e reconhecimento
+
+### Líderes eficazes conseguem estabelecer prioridades
+- Focar no que é importante
+	- Conheça seu time
+	- Promova momentos de interação (tanto profissional quanto pessoal/estimule o uso do feedback)
+	- Enteda o contexto
+	- Organize o tempo
+	- Estabeleça uma boa comunicação
+
+Como implementá-las?
+
+### Confiança é uma via de mão dupla.
+
+Passos 
+Honre sua palavra
+Demonstre lealdade
+Demonstre empatia
+Seja transparente
