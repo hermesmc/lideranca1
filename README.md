@@ -82,7 +82,7 @@ Como implementá-las?
 
 ### Confiança é uma via de mão dupla.
 
-Passos 
+Passos para estabelecer um laço de confiança com sua equipe:
 - Honre sua palavra;
 - Demonstre lealdade;
 - Demonstre empatia;
