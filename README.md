@@ -63,7 +63,7 @@ Carol Dweck apontou em seu livro que as pessoas podem ser divididas em dois gran
 
 Líder de si mesmo => líder de pessoas(autoconhecimento é chave para assumir essas novas funções)
 
-Segundo Ram Charan a cada nível há uma nova complexidade e a cada mudança de complexidade ha 3 mudnaças essenciais:<br>
+Segundo Ram Charan, para cada nível há uma nova complexidade e para cada mudança de complexidade, existem 3 mudanças essenciais:<br>
 1 - Novas habilidades<br>
 2 - Aplicação do tempo(organizar seu tempo de forma eficaz)<br>
 3 - Rever os valores profissionais<br>
@@ -83,7 +83,7 @@ Como implementá-las?
 ### Confiança é uma via de mão dupla.
 
 Passos 
-Honre sua palavra
-Demonstre lealdade
-Demonstre empatia
-Seja transparente
+- Honre sua palavra;
+- Demonstre lealdade;
+- Demonstre empatia;
+- Seja transparente;
