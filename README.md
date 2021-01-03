@@ -87,3 +87,33 @@ Passos para estabelecer um laço de confiança com sua equipe:
 - Demonstre lealdade;
 - Demonstre empatia;
 - Seja transparente;
+
+### A importância de conhecer o perfil dos colaboradores:
+
+O mapeamento de perfil dos colaboradores é uma estratégia para atingir resultados melhores a curto e longo prazo, ter uma visão mais ampla sobre como conduzir a gestão de equipes, direcionar os profissionais ideais para cada área de atuação da sua empresa, criar uma equipe de alta performance e reter talentos.
+Profissionais que se sentem mais produtivos com as atividades que realizam e têm seus propósitos de carreira preenchidos em uma empresa dificilmente sairão dela ou não darão o seu melhor para que ela cresça.
+
+Para desenvolver as habilidades dos colaboradores é importante estabelecer um PDI - Plano de Desenvolvimento Individual de cada integrante de sua equipe, com as competências que precisam ser desenvolvidas e ações a serem feitas para se buscar os resultados.
+
+E para desenvolver habilidades é necessário alternar em dois papéis na liderança: ora de mentor ora de coach.
+
+- Como mentor, a atuação é com foco na transferência de conhecimento. Ensinar a colocar “a mão na massa”, como treinar uma tarefa, apoiar na solução de um problema, ou seja, direcionar a pessoa para alcançar resultados.
+
+- Como coach a atuação é menos diretiva e com foco na tomada de decisão da pessoa, na construção do pensamento analitico e da reflexão.
+
+Uma forma de treinar é atuar nesses dois papéis durante o período de 4 semanas. Caso ainda não tenha formalmente uma equipe, sugiro escolher um colega que geralmente já o apoia com uma liderança informal.
+
+Para isso, siga os passos a seguir:
+
+- Escolha alguém que não seja iniciante e nem muito sênior. Opte por alguém que esteja no nível intermediário da função que exerce.
+
+- Defina 3 competências técnicas ou comportamentais que este profissional ainda não apresenta e precisam ser mais desenvolvidas.
+
+- Faça um PDI e estabeleça as ações incluindo as sessões que ele terá com você.
+
+- Convide a pessoa explicando que durante 4 semanas, vocês terão 8 encontros (2 por semana) para treinar as habilidades descritas no PDI.
+
+Durante essas conversas, alterne o papel que vai exercer. Se for mentor, traga um exemplo prático, treine, desenhe, explique, mostre algo até que a pessoa aprenda. Se for a vez do papel de coach, traga questões mais abrangentes como carreira, motivações, medos, frustrações e, nessa conversa, treine as perguntas para obter respostas. Como exemplo: como foi sua semana? Como se sentiu naquele problema X que tivemos essa semana? Como foi resolvido aquele conflito com o cliente? Importante: se esforce neste papel de coach para não fornecer respostas prontas ou caminhos a seguir. Lembre-se que neste papel seu objetivo é gerar a reflexão e o aprendizado com as próprias respostas do aprendiz.
+
+Ao final de cada sessão, descreva no seu caderno de anotações como foi cada papel exercido. Qual foi mais fácil? Ou mais difícil e por quê? É possível alternarmos os papéis na sua opinião? O que você conclui?
+
