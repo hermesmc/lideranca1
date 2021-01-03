@@ -93,6 +93,8 @@ Passos para estabelecer um laço de confiança com sua equipe:
 O mapeamento de perfil dos colaboradores é uma estratégia para atingir resultados melhores a curto e longo prazo, ter uma visão mais ampla sobre como conduzir a gestão de equipes, direcionar os profissionais ideais para cada área de atuação da sua empresa, criar uma equipe de alta performance e reter talentos.
 Profissionais que se sentem mais produtivos com as atividades que realizam e têm seus propósitos de carreira preenchidos em uma empresa dificilmente sairão dela ou não darão o seu melhor para que ela cresça.
 
+### Desenvolvendo habilidades dos colaboradores:
+
 Para desenvolver as habilidades dos colaboradores é importante estabelecer um PDI - Plano de Desenvolvimento Individual de cada integrante de sua equipe, com as competências que precisam ser desenvolvidas e ações a serem feitas para se buscar os resultados.
 
 E para desenvolver habilidades é necessário alternar em dois papéis na liderança: ora de mentor ora de coach.
