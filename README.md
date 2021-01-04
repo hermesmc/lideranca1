@@ -166,9 +166,3 @@ Após esse levantamento, atribua ao lado de cada necessidade humana, uma nota 0 
     Escreva por que atribuiu tal nota:
 
 Agora que você já tem informações suficientes sobre essa pessoa e o estágio em que ela está, conclua o seu exercício respondendo às seguintes questões: afinal, em qual estágio da hierarquia de necessidades humanas essa pessoa se encontra? Como você chegou a esta conclusão? O que você, como líder dessa pessoa, pode apoiá-la nesse momento para aumentar a sua motivação?
-
-
-https://materiais.passadori.com.br/e-book-inteligencia-emocional-e-lideranca
-
-
-
