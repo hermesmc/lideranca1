@@ -120,4 +120,55 @@ Durante essas conversas, alterne o papel que vai exercer. Se for mentor, traga u
 Ao final de cada sessão, descreva no seu caderno de anotações como foi cada papel exercido. Qual foi mais fácil? Ou mais difícil e por quê? É possível alternarmos os papéis na sua opinião? O que você conclui?
 
 
+
+A teoria de Maslow aponta que a motivação humana atende a uma hierarquia de necessidades, ou seja, uma ordem de prioridades. E que as pessoas da mesma equipe não estão necessariamente no mesmo estágio de vida, pois possuem vontades próprias, histórias diferentes e consequentemente ambições diversas relacionadas a este contexto.
+
 ![maslow](https://user-images.githubusercontent.com/49697760/103543923-0fa13100-4e7e-11eb-826d-058829f6c4f3.png)
+
+Para fazer esse exercício, a proposta é você escolher uma pessoa da sua equipe que tem apresentado alguns comportamentos como: baixa performance, ou tem faltado bastante, ou ainda tem se prejudicado constantemente por conta de suas ações",. Enfim, alguém que você acredita estar pouco motivado para o trabalho. Você também pode escolher um colega caso ainda não tenha equipe.
+
+Provavelmente você já tem dado feedbacks para a pessoa e com certeza já tem algumas das respostas das perguntas a seguir. Se ainda não, chame para um bate papo informal. E nessa conversa, investigue:
+
+  - levante alguns aspectos pessoais como momento de vida, desejos, angústias. Cuidado para não ser invasivo. Respeite o limite da pessoa até onde ela quer te contar;
+
+  - levante também o momento que a pessoa está na empresa: há quanto tempo atua na mesma função? Tem algo que você acredita que a incomoda na cultura e no relacionamento com outras pessoas? Ela se sente reconhecida? A remuneração que ganha está adequada na opinião da pessoa?
+
+Após esse levantamento, atribua ao lado de cada necessidade humana, uma nota 0 a 10 de acordo com sua percepção, o quanto essa pessoa está satisfeita em cada estágio. E complete com sua reflexão: por que atribuiu tal nota?
+
+    Necessidades fisiológicas: questões como problemas financeiros ou de necessidades básicas como pagar o aluguel, acessar a um sistema de saúde de qualidade e etc.
+
+    Nota:
+
+    Escreva por que atribuiu tal nota:
+
+    Necessidades de segurança: perda do emprego, riscos à integridade física e à sobrevivência, etc.
+
+    Nota:
+
+    Escreva por que atribuiu tal nota:
+
+    Necessidades sociais: amizades, afetos, interação e aceitação dentro de um grupo e da sociedade.
+
+    Nota:
+
+    Escreva por que atribuiu tal nota:
+
+    Necessidades de estima: autoestima e estima por parte dos outros.
+
+    Nota:
+
+    Escreva por que atribuiu tal nota:
+
+    Necessidades de autorrealização: uso do potencial de aptidões e habilidades, autodesenvolvimento e realização pessoal.
+
+    Nota:
+
+    Escreva por que atribuiu tal nota:
+
+Agora que você já tem informações suficientes sobre essa pessoa e o estágio em que ela está, conclua o seu exercício respondendo às seguintes questões: afinal, em qual estágio da hierarquia de necessidades humanas essa pessoa se encontra? Como você chegou a esta conclusão? O que você, como líder dessa pessoa, pode apoiá-la nesse momento para aumentar a sua motivação?
+
+
+https://materiais.passadori.com.br/e-book-inteligencia-emocional-e-lideranca
+
+
+
