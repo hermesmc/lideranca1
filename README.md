@@ -2,6 +2,8 @@
 
 - Anotações do curso de liderança 1 do Alura
 
+Para saber se está apto a assumir um cargo de liderança você pode pedir o feedback de pessoas que você confie em seu ambiente de trabalho conforme o questionário abaixo:
+
 1ª habilidade: empatia
 
     Descrição: capacidade de se colocar no lugar do outro estabelecendo confiança e segurança.
