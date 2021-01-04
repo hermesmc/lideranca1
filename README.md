@@ -119,3 +119,5 @@ Durante essas conversas, alterne o papel que vai exercer. Se for mentor, traga u
 
 Ao final de cada sessão, descreva no seu caderno de anotações como foi cada papel exercido. Qual foi mais fácil? Ou mais difícil e por quê? É possível alternarmos os papéis na sua opinião? O que você conclui?
 
+
+![maslow](https://user-images.githubusercontent.com/49697760/103543923-0fa13100-4e7e-11eb-826d-058829f6c4f3.png)
