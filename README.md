@@ -169,8 +169,7 @@ Após esse levantamento, atribua ao lado de cada necessidade humana, uma nota 0 
 
 Agora que você já tem informações suficientes sobre essa pessoa e o estágio em que ela está, conclua o seu exercício respondendo às seguintes questões: afinal, em qual estágio da hierarquia de necessidades humanas essa pessoa se encontra? Como você chegou a esta conclusão? O que você, como líder dessa pessoa, pode apoiá-la nesse momento para aumentar a sua motivação?
 
-## "Nas organizações, a capacidade de articulação e o reconhecimento por parte dos pares
-são valorizados durante os processos sucessórios."
+## "Nas organizações, a capacidade de articulação e o reconhecimento por parte dos pares são valorizados durante os processos sucessórios."
 
 A proxima fase, “Eu, líder no ambiente” traz outros desafios na primeira liderança, como ganhar aliados e fechar parcerias, já que não atuamos somente com a nossa equipe.
 
