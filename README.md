@@ -168,3 +168,21 @@ Após esse levantamento, atribua ao lado de cada necessidade humana, uma nota 0 
     Escreva por que atribuiu tal nota:
 
 Agora que você já tem informações suficientes sobre essa pessoa e o estágio em que ela está, conclua o seu exercício respondendo às seguintes questões: afinal, em qual estágio da hierarquia de necessidades humanas essa pessoa se encontra? Como você chegou a esta conclusão? O que você, como líder dessa pessoa, pode apoiá-la nesse momento para aumentar a sua motivação?
+
+## "Nas organizações, a capacidade de articulação e o reconhecimento por parte dos pares
+são valorizados durante os processos sucessórios."
+
+A proxima fase, “Eu, líder no ambiente” traz outros desafios na primeira liderança, como ganhar aliados e fechar parcerias, já que não atuamos somente com a nossa equipe.
+
+Uma empresa é um cenário com sua dinâmica própria e com uma cultura particular. Nesse contexto, as coisas funcionam de acordo com essas variáveis. Às vezes é necessário um pouco de “política” para se ganhar “terreno” e conseguir avançar com a aprovação de projetos de autoria própria e construir uma imagem positiva perante os públicos (clientes, fornecedores, pares e chefias). Esse “jogo” é natural no mundo corporativo, já que tem muitos interesses envolvidos e as pessoas estão, de uma certa forma, competindo por uma promoção, melhor remuneração, reconhecimento, poder e até status. Aprender isso é importante para ganhar visibilidade, participando de comitês de liderança e se envolvendo em assuntos estratégicos da empresa não relacionados diretamente ao seu setor.
+
+### Alguns passos para conseguir visibilidade:
+
+1º passo: Faça uma autorreflexão sobre sua agenda atual e se ela comporta mais reuniões e atividades. Se a resposta for não, organize-a primeiro, delegando algumas tarefas e nomeando pessoas que possam lhe apoiar
+ em atividades operacionais.<p>
+
+2º passo: Procure o RH ou o seu próprio gestor para mostrar sua intenção de colaborar com a empresa, como voluntário em outros assuntos do negócio. Veja se tem alguma reunião periódica com gestores que ainda não participa e poderia contribuir. Caso a empresa em que trabalha não tenha essas iniciativas, proponha que seja criado um comitê de liderança quinzenal, por exemplo, para discutir assuntos diversos. Se sua sugestão for ignorada, crie você mesmo a prática de encontros com líderes de outras áreas para trocar ideias, mesmo que seja após o expediente. <p>
+
+3º passo: Seja proativo, trazendo ideias que colaborarão com o negócio. E não precisa vir necessariamente de você. Converse com a equipe e estimule-os a trazerem ideias mesmo que não possam ser implementadas no momento.<p>
+
+Ao fazer os três passos acima, perceba o que conseguiu com estas ações. Alguma parceria foi fechada? Algum projeto de sua área foi aprovado? Teve mais visibilidade? Aprendeu algo novo?
